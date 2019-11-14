@@ -113,4 +113,4 @@ while success:
     
 vidcap.release()
 cv2.destroyAllWindows()
-
+#commit 인덱스의 상태를 기록하기
