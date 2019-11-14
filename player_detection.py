@@ -113,4 +113,9 @@ while success:
     
 vidcap.release()
 cv2.destroyAllWindows()
+
 #commit 인덱스의 상태를 기록하기
+
+#add commit
+#pull 원격 저장소의 내용을 가져오기
+
